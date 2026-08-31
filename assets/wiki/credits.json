@@ -1,0 +1,253 @@
+{
+  "taiga": {
+    "page": "https://zh.moegirl.org.cn/逢坂大河",
+    "title": "逢坂大河",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/a/ab/Aisaa_Taiga.jpg",
+    "local": "assets/wiki/taiga.jpg",
+    "bytes": 193509
+  },
+  "mikoto": {
+    "page": "https://zh.moegirl.org.cn/御坂美琴",
+    "title": "御坂美琴",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/e/e0/9694490.jpg",
+    "local": "assets/wiki/mikoto.jpg",
+    "bytes": 1211643
+  },
+  "suika": {
+    "page": "https://zh.moegirl.org.cn/伊吹萃香",
+    "title": "伊吹萃香",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/1/14/20180822161909_zkdcN.jpeg",
+    "local": "assets/wiki/suika.jpeg",
+    "bytes": 171906
+  },
+  "brs": {
+    "page": "https://zh.moegirl.org.cn/黑岩射手",
+    "title": "黑岩射手",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/d/d9/Brs-by-huke.jpg",
+    "local": "assets/wiki/brs.jpg",
+    "bytes": 265847
+  },
+  "marisa": {
+    "page": "https://zh.moegirl.org.cn/雾雨魔理沙",
+    "title": "雾雨魔理沙",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/a/a9/Pixivid%3D53598872.png",
+    "local": "assets/wiki/marisa.png",
+    "bytes": 700026
+  },
+  "mami": {
+    "page": "https://zh.moegirl.org.cn/巴麻美",
+    "title": "巴麻美",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/b/be/%E5%B7%B4%E9%BA%BB%E7%BE%8E32109571.png",
+    "local": "assets/wiki/mami.png",
+    "bytes": 1144805
+  },
+  "miku": {
+    "page": "https://zh.moegirl.org.cn/初音未来",
+    "title": "初音未来",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/f/f7/MikuV6_main.jpeg",
+    "local": "assets/wiki/miku.jpeg",
+    "bytes": 270204
+  },
+  "yoshika": {
+    "page": "https://zh.moegirl.org.cn/宫古芳香",
+    "title": "宫古芳香",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/b/bb/Miyako_Yoshika_2.png",
+    "local": "assets/wiki/yoshika.png",
+    "bytes": 339320
+  },
+  "rea": {
+    "page": "https://zh.moegirl.org.cn/散华礼弥",
+    "title": "散华礼弥",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/0/00/Sanka.Rea.full.1240392.jpg",
+    "local": "assets/wiki/rea.jpg",
+    "bytes": 524934
+  },
+  "yuyuko": {
+    "page": "https://zh.moegirl.org.cn/西行寺幽幽子",
+    "title": "西行寺幽幽子",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/f/f3/52485871_p0.jpg",
+    "local": "assets/wiki/yuyuko.jpg",
+    "bytes": 991804
+  },
+  "flandre": {
+    "page": "https://zh.moegirl.org.cn/芙兰朵露·斯卡蕾特",
+    "title": "芙兰朵露·斯卡蕾特",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/8/86/56397826.png",
+    "local": "assets/wiki/flandre.png",
+    "bytes": 1012491
+  },
+  "kurumi": {
+    "page": "https://zh.moegirl.org.cn/时崎狂三",
+    "title": "时崎狂三",
+    "file": "",
+    "url": "https://storage.moegirl.org.cn/moegirl/commons/a/a6/%E6%97%B6%E5%B4%8E%E7%8B%82%E4%B8%89.jpg",
+    "local": "assets/wiki/kurumi.jpg",
+    "bytes": 622414
+  },
+  "morgan": {
+    "title": "摩根",
+    "page": "https://fgo.wiki/w/摩根",
+    "local": "assets/cards\\morgan.png"
+  },
+  "artcaster": {
+    "title": "阿尔托莉雅·卡斯特",
+    "page": "https://fgo.wiki/w/阿尔托莉雅·卡斯特",
+    "local": "assets/cards\\artcaster.png"
+  },
+  "melusine": {
+    "title": "妖精骑士兰斯洛特",
+    "page": "https://fgo.wiki/w/妖精骑士兰斯洛特",
+    "local": "assets/cards\\melusine.png"
+  },
+  "barghest": {
+    "title": "妖精骑士高文",
+    "page": "https://fgo.wiki/w/妖精骑士高文",
+    "local": "assets/cards\\barghest.png"
+  },
+  "baobhan": {
+    "title": "妖精骑士崔斯坦",
+    "page": "https://fgo.wiki/w/妖精骑士崔斯坦",
+    "local": "assets/cards\\baobhan.png"
+  },
+  "oberon": {
+    "title": "奥伯龙",
+    "page": "https://fgo.wiki/w/奥伯龙",
+    "local": "assets/cards\\oberon.png"
+  },
+  "habetrot": {
+    "title": "哈贝特洛特",
+    "page": "https://fgo.wiki/w/哈贝特洛特",
+    "local": "assets/cards\\habetrot.png"
+  },
+  "artoria": {
+    "title": "阿尔托莉雅·潘德拉贡",
+    "page": "https://fgo.wiki/w/阿尔托莉雅·潘德拉贡",
+    "local": "assets/cards\\artoria.png"
+  },
+  "nero": {
+    "title": "尼禄·克劳狄乌斯",
+    "page": "https://zh.moegirl.org.cn/尼禄·克劳狄乌斯",
+    "local": "assets/cards\\nero.png"
+  },
+  "mashu": {
+    "title": "玛修·基列莱特",
+    "page": "https://fgo.wiki/w/玛修·基列莱特",
+    "local": "assets/cards\\mashu.png"
+  },
+  "tamamo": {
+    "title": "玉藻前",
+    "page": "https://fgo.wiki/w/玉藻前",
+    "local": "assets/cards\\tamamo.png"
+  },
+  "skadi": {
+    "title": "斯卡哈·斯卡蒂",
+    "page": "https://fgo.wiki/w/斯卡哈·斯卡蒂",
+    "local": "assets/cards\\skadi.png"
+  },
+  "ishtar": {
+    "title": "伊什塔尔",
+    "page": "https://fgo.wiki/w/伊什塔尔",
+    "local": "assets/sprites\\ishtar.png"
+  },
+  "scathach": {
+    "title": "斯卡哈",
+    "page": "https://fgo.wiki/w/斯卡哈",
+    "local": "assets/sprites\\scathach.png"
+  },
+  "ereshkigal": {
+    "title": "埃列什基伽勒",
+    "page": "https://fgo.wiki/w/埃列什基伽勒",
+    "local": "assets/cards\\ereshkigal.png"
+  },
+  "jeanne_alter": {
+    "title": "黑贞德",
+    "page": "https://zh.moegirl.org.cn/黑贞德",
+    "local": "assets/cards\\jeanne_alter.png"
+  },
+  "shuten": {
+    "title": "酒吞童子",
+    "page": "https://fgo.wiki/w/酒吞童子",
+    "local": "assets/cards\\shuten.png"
+  },
+  "raikou": {
+    "title": "源赖光",
+    "page": "https://fgo.wiki/w/源赖光",
+    "local": "assets/cards\\raikou.png"
+  },
+  "kiyohime": {
+    "title": "清姬",
+    "page": "https://fgo.wiki/w/清姬",
+    "local": "assets/sprites\\kiyohime.png"
+  },
+  "mhx": {
+    "title": "谜之女主角X",
+    "page": "https://fgo.wiki/w/谜之女主角X",
+    "local": "assets/cards\\mhx.png"
+  },
+  "ushiwakamaru": {
+    "title": "牛若丸",
+    "page": "https://fgo.wiki/w/牛若丸",
+    "local": "assets/sprites\\ushiwakamaru.png"
+  },
+  "reimu": {
+    "title": "博丽灵梦",
+    "page": "https://zh.moegirl.org.cn/博丽灵梦",
+    "local": "assets/cards\\reimu.png"
+  },
+  "sakuya": {
+    "title": "十六夜咲夜",
+    "page": "https://zh.moegirl.org.cn/十六夜咲夜",
+    "local": "assets/cards\\sakuya.png"
+  },
+  "shana": {
+    "title": "夏娜",
+    "page": "https://zh.moegirl.org.cn/夏娜",
+    "local": "assets/cards\\shana.png"
+  },
+  "rem": {
+    "title": "蕾姆(Re:从零开始的异世界生活)",
+    "page": "https://zh.moegirl.org.cn/蕾姆(Re:从零开始的异世界生活)",
+    "local": "assets/sprites\\rem.png"
+  },
+  "asuna": {
+    "title": "结城明日奈",
+    "page": "https://zh.moegirl.org.cn/结城明日奈",
+    "local": "assets/cards\\asuna.png"
+  },
+  "chtholly": {
+    "title": "珂朵莉·诺塔·瑟尼欧里斯",
+    "page": "https://zh.moegirl.org.cn/珂朵莉·诺塔·瑟尼欧里斯",
+    "local": "assets/sprites\\chtholly.png"
+  },
+  "shiro": {
+    "title": "白(游戏人生)",
+    "page": "https://zh.moegirl.org.cn/白(游戏人生)",
+    "local": "assets/sprites\\shiro.png"
+  },
+  "cirno": {
+    "title": "琪露诺",
+    "page": "https://zh.moegirl.org.cn/琪露诺",
+    "local": "assets/cards\\cirno.png"
+  },
+  "patchouli": {
+    "title": "帕秋莉·诺蕾姬",
+    "page": "https://zh.moegirl.org.cn/帕秋莉·诺蕾姬",
+    "local": "assets/cards\\patchouli.png"
+  },
+  "oberon_boss": {
+    "title": "奥伯龙",
+    "page": "https://fgo.wiki/w/奥伯龙",
+    "local": "assets/cards\\oberon_boss.png"
+  }
+}
