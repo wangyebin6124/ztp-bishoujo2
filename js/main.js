@@ -25,6 +25,10 @@ window.ZTP = window.ZTP || {};
   }
 
   /* ---------- 资源清单（数据驱动） ---------- */
+  /* 部署在 github.io 时，大图走 jsDelivr CDN 加速，失败自动回退本站 */
+  const ASSET_CDN = location.hostname.indexOf('github.io') >= 0
+    ? 'https://cdn.jsdelivr.net/gh/wangyebin6124/ztp-bishoujo2@main/'
+    : '';
   const MANIFEST = {};
   for (const id of D.ROSTER_ORDER) {
     const u = D.ROSTER[id];
@@ -42,16 +46,26 @@ window.ZTP = window.ZTP || {};
     const names = Object.keys(MANIFEST);
     let done = 0;
     const bar = $('#loadbar'), label = $('#loadtext');
+    const mark = () => {
+      done++;
+      if (bar) bar.style.width = Math.round(done / names.length * 100) + '%';
+      if (label) label.textContent = '加载 WIKI 立绘 ' + done + '/' + names.length;
+      if (done === names.length) cb();
+    };
     names.forEach((n) => {
       const im = new Image();
-      im.onload = im.onerror = () => {
-        images[n] = im;
-        done++;
-        if (bar) bar.style.width = Math.round(done / names.length * 100) + '%';
-        if (label) label.textContent = '加载 WIKI 立绘 ' + done + '/' + names.length;
-        if (done === names.length) cb();
+      im.onload = () => { images[n] = im; mark(); };
+      im.onerror = () => {
+        // CDN 失败 → 回退本站相对路径
+        const local = MANIFEST[n];
+        if (ASSET_CDN && im.src.indexOf(ASSET_CDN) === 0) {
+          im.src = local;
+        } else {
+          images[n] = im;
+          mark();
+        }
       };
-      im.src = MANIFEST[n];
+      im.src = ASSET_CDN ? ASSET_CDN + MANIFEST[n] : MANIFEST[n];
     });
   }
 
